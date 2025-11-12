@@ -1,6 +1,7 @@
 <!---
 {
   "id": "f81d1db6-ad8e-42ff-916c-157049d29292",
+  "teaches": "Serving Local Directories with Apache and Virtual Hosts",
   "depends_on": ["b9e34253-61e2-4fb7-bd36-388c370fa765"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-06",
